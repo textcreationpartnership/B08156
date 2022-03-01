@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Charles his vvelcome from Spaine: who landed at Portsmouth on Sunday the fift of October, and came safely to London on Munday the sixt of the same, 1623.  Wtih the triumphs of London for the same his happy ariuall.  And the relation of such townes as are situate in the wayes to take poste-horse at, from the city of London to Douer: and from Calais through all France and Spaine, to Madrid, to the Spanish court..</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08156</idno>
+            <idno type="STC">STC 23789.7</idno>
+            <idno type="STC">ESTC S95487</idno>
+            <idno type="EEBO-CITATION">72803576</idno>
+            <idno type="OCLC">ocm 72803576</idno>
+            <idno type="VID">184135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184135)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2229:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Charles his vvelcome from Spaine: who landed at Portsmouth on Sunday the fift of October, and came safely to London on Munday the sixt of the same, 1623.  Wtih the triumphs of London for the same his happy ariuall.  And the relation of such townes as are situate in the wayes to take poste-horse at, from the city of London to Douer: and from Calais through all France and Spaine, to Madrid, to the Spanish court..</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[21] p., [1] leaf of plates : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. E. for Iohn Wright, and are to be sold at the Signe of the Bible without Newgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ornament on t.p., headpieces, initials.</note>
+                  <note>Portrait of Charles I facing t.p.</note>
+                  <note>Signatures: A-B⁴ C³.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:184135:1" rendition="simple:additions"/>
+            <pb facs="tcp:184135:1" rendition="simple:additions"/>
+            <pb facs="tcp:184135:2"/>
+            <figure>
+               <figDesc>depiction of Prince Charles</figDesc>
+               <figure>
+                  <q xml:lang="fre">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="ger">ICH DIEN</q>
+                  <figDesc>coronet of the Prince of Wales adorned with three ostrich feathers and motto and surrounded by garter of Knights of the Garter with their motto</figDesc>
+               </figure>
+            </figure>
+            <pb facs="tcp:184135:2" rendition="simple:additions"/>
+            <p>Prince Charles HIS VVELCOME FROM SPAINE:</p>
+            <p>Who landed at <hi>Portſmouth</hi> on Sun<g ref="char:EOLhyphen"/>day the fift of October, and came ſafely to <hi>London</hi> on Munday the ſixt of the ſame, 1623.</p>
+            <p>
+               <hi>WITH</hi> The Triumphs of <hi>London</hi> for the ſame his happy Ariuall.</p>
+            <p>
+               <hi>AND</hi> The Relation of ſuch Townes as are ſituate in the wayes to take poſte-horſe at, from the City of <hi>London</hi> to <hi>Douer:</hi> and from <hi>Calais</hi> through all <hi>France</hi> and <hi>Spaine,</hi> to <hi>Madrid,</hi> to the Spaniſh Court.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G.E.</hi> for <hi>Iohn Wright,</hi> and are to be ſold at the ſigne of the Bible without <hi>Newgate.</hi> 1623.</p>
+         </div>
+      </front>
+      <body>
+         <div type="description_of_royal_triumph">
+            <pb facs="tcp:184135:3"/>
+            <pb n="1" facs="tcp:184135:3"/>
+            <head>Prince Charles HIS VVELCOME FROM <hi>SPAINE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter Great Britaine (ouerwhel<g ref="char:EOLhyphen"/>med with doubts, hopes, feares and moſt carefull, louing and dutifull Iealouſie) had dolou<g ref="char:EOLhyphen"/>rouſly drooped, and mourned in a robe of melancholy 8, mo<g ref="char:EOLhyphen"/>neths long, for the abſence of our hopefull, vnparalleld, and illuſtrious Prince <hi>Charles,</hi> each minute of whoſe vn<g ref="char:EOLhyphen"/>expected, and vnthought of Iourney from hence, ſeeming a tedious torture to millions of louing and wel-wiſhing hearts, whoſe happy and wel-comes home doth like the radiant Sun expell all the diſmall and moody cloudes of griefe and melancholy; to
+<pb facs="tcp:184135:4"/>the vniuerſall ioy of his Royall Father, and all his loyall Subiects, hauing paſſed ſo long and tedious a Iourney, ſo much change of ayre &amp; varieties of diet, preſerued (by the Almighties eſpeciall prouidence) from all dangers and caſualties that might any way impeach his Highneſſe health, or preiudice his Princely perſon, in any of his affaires.</p>
+            <p>After his Highneſſe ſtay from the 7. of March with his Catholike Maieſtie at his Court at <hi>Madrid,</hi> with the great and magnificent Entertainments, Fea<g ref="char:EOLhyphen"/>ſtings, Maskings, Banquettings, Huntings, Hawkings, and diuers other royall, pleaſant, laudable, coſtly, ſumptuous, and manly diſports, and exerciſes, where, with the King, the Queene, the faire, vertuous, and louely Lady <hi>Maria,</hi> (the highborne <hi>Infanta</hi>) his Highneſſe hauing all the content and welcome which ſo potent a Monarch could any way expreſſe, or our gracious Prince expect: Then (to eaſe our common griefe, &amp; to reuiue our half dead hopes, it pleaſed his Grace to take his leaue of <hi>Madrid,</hi> &amp; paſſing by eaſie Iourneyes on his way, accompanied ſome part with the King, after whoſe departure from his Highneſſe, hee was attended by certaine of the Graundes of <hi>Spaine,</hi> ſo that in thirteene or fourteene dayes ſpace his Highneſſe came in perfect health to the Port of Saint <hi>Anderas,</hi> in the Prouince of <hi>Biſcay,</hi> where, when our Engliſh fleete had knowledge of his long look'd for and welcome comming, then did the hearts of euery man leape within him for ioy, their eyes ouerflowed with teares of louing and dutifull af<g ref="char:EOLhyphen"/>fection,
+<pb facs="tcp:184135:4"/>their voyces ſhouted with acclamations. The great Ordnance thundered and filled the earth and skies with loud reioycings, the trumpets clangor pierced the welkin, the beaten drummes ratled tri<g ref="char:EOLhyphen"/>umphantly, all manner of Inſtruments ſounded me<g ref="char:EOLhyphen"/>lodiouſly, and to better and ſweeten all the reſt, his Highneſſe moſt graciouſly accepted their loues mu<g ref="char:EOLhyphen"/>tually and thankfully. But bluſtring <hi>Boreas,</hi> with his brother <hi>Eurus</hi> (the North and Eaſt windes) blew moſt ſtifly, and churliſhly detained our ioy and hap<g ref="char:EOLhyphen"/>pineſſe from vs here in Britaine. So that neuer any louing mother deſired with more longing to ſee her hopefull ſonne, whoſe long abſence had fild her with griefe, then all the honeſt Inhabitants of this King<g ref="char:EOLhyphen"/>dome did hunger and thirſt to ſee or heare from their moſt hopefull and beloued Prince. With what greedy deſire did many thouſands (as it were) nayle their eye-ſights dayly vpon Fanes, Weather-cocks, the ſmoake of Chimneyes, and the Racking of the cloudes; and for fifteene long dayes and nights, the thwartouer and croſſe North and Eaſterly winde blew vs nothing bnt lengthening of our ſorrowes, and delaying of our comforts, vntill at laſt on Friday the third of October laſt it pleaſed the great Arch<g ref="char:EOLhyphen"/>maſter of windes and Seas, to turne the breath of <hi>Eo<g ref="char:EOLhyphen"/>lus</hi> the way we moſt heartily prayed for: So that his Highnes ſpeedily taking aduantage of this moſt hap<g ref="char:EOLhyphen"/>py and proſperous Gale; Anchors were ſoone weigh<g ref="char:EOLhyphen"/>ed, Sailes ſuddenly diſplayed, and by the prouidence of the Almighty, and the diligent induſtry of the
+<pb n="4" facs="tcp:184135:5"/>skilfull Nauigators and Mariners, his Higneſſe moſt ſafely landed at <hi>Portſmouth</hi> in <hi>Hampſhire</hi> on Sunday the 5 of October, betwixt the houres of three and foure in the afternoone, where hee tooke coach and came that night and lodged neere <hi>Gilford</hi> in <hi>Surrey,</hi> 25 miles from <hi>London,</hi> at the houſe of the Right Ho<g ref="char:EOLhyphen"/>norable the Lord Viſcount <hi>Anuan's.</hi>
+            </p>
+            <p>The happy newes of his Highneſſe moſt welcome ariuall was brought to <hi>London</hi> on Monday being the ſixt of October, and ſhortly after the ſame morning he came in perſon himſelfe, taking Barge at <hi>Lambeth</hi> with the Duke of <hi>Buckingham,</hi> followed by the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury,</hi> and diuers others; whence he paſt to Yorke-houſe, betwixt eight and nine of the clocke, where he hauing taken ſome repaſt, he tooke Coach againe to goe towards his royall Father, to reioyce his heart with his Princely preſence.</p>
+            <p>The ioyfull newes of his happy returne, filled the whole Kingdome with exceſſiue ioy: firſt his moſt royall Father had a chiefe ſhare in the comfort: ſe<g ref="char:EOLhyphen"/>condly, many of his good Seruants, who were al<g ref="char:EOLhyphen"/>moſt with griefe for his long abſence like ſo many bodies without life: but now they are all relieued by his welcome preſence, with the ſpirits of mirth and alacrity. But the City of <hi>London</hi> in expreſſion of their louing duties, haue ſpared for no coſt, either generall or particular.
+<q>
+                  <pb facs="tcp:184135:5"/>
+                  <l>THe Bels proclaim'd aloud in euery ſteeple,</l>
+                  <l>The ioyfull acclamations of the people.</l>
+                  <l>The Ordnance thundred with ſo high a ſtraine,</l>
+                  <l>As if great <hi>Mars</hi> they meant to entertaine.</l>
+                  <l>The Bonfires blazing, infinit almoſt,</l>
+                  <l>Gaue ſuch a heat as if the world did roaſt.</l>
+                  <l>True mirth and gladneſſe was in euery face,</l>
+                  <l>And healths ran brauely round in euery place:</l>
+                  <l>That ſure I thinke this ſixt day of October,</l>
+                  <l>Ten thouſand men will goe to bed ſcarce (&amp;c.)</l>
+                  <l>This was a day all dedicate to mirth,</l>
+                  <l>As 'twere our Royall <hi>Charles</hi> his ſecond birth.</l>
+                  <l>And this day is a iewell well return'd,</l>
+                  <l>For whom this Kingdome yeſterday ſo mourn'd.</l>
+                  <l>God length his dayes who is the cauſe of this,</l>
+                  <l>And make vs thankfull for ſo great a bliſſe.</l>
+               </q>
+            </p>
+            <pb n="4" facs="tcp:184135:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184135:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184135:7"/>
+            <p> The whole day being ſpent thus in mirth, triumphs, and thankſgiuing, wherein the people of all degrees, from the higheſt to the loweſt, both rich and poore in London, Weſtminſter, and the Suburbs, to their powers expreſt their loues: that not ſo much but the foure Elements, Fire, Water, Ayre, and Earth, ſee<g ref="char:EOLhyphen"/>med to applaud the celebration of this happy and welcome day, for the Heauens moſt abundantly pou<g ref="char:EOLhyphen"/>red downe a ſhower of raine of nine houers continu<g ref="char:EOLhyphen"/>ance, which the dry and thirſty Earth dranke moſt greedily, or as I may ſay moſt louingly, to the health of ſo ioyfull and auſpicious a ſolemnity. The Fire (or fires) in all places, ſtreets, lanes, courts, and cor<g ref="char:EOLhyphen"/>ners, (deſpight the raine, or enuying that it ſhould quench the flaming ardency of its tranſcendent loue) aſcended vpwards in ſhew of thankfulneſſe: and the vaſt, empty, and ſubtill Ayre was filled with the ſhouts and acclamations of people, with the reioy<g ref="char:EOLhyphen"/>cing noyſes of Inſtruments, Ordnance, Muskets, Bels, Drums, &amp; Trumpets. And further I heard it credibly reported, that there was one Bonefire made at the Guildhall in London which coſt one hundred pounds (belike it was ſome Logwood which was prohibited or vnlawfull to be vſed by Dyers, and being forfeited was ordained to be burnt in triumph:) But (as good cauſe we had) the day was commanded to be kept ho<g ref="char:EOLhyphen"/>lyday, ſo that no ſhops were opened, no manner of worke was done from morning till night, but carying and re-carying wood to make Bonefires, ringing, fil<g ref="char:EOLhyphen"/>ling and emptying of pots, that all ſeemed as if the
+<pb facs="tcp:184135:7"/>world was newly preſerued from ſome ſecond flood (as indeed our whole Kingdome was from a flood of griefe) to the ſafe and happy hauen of happineſſe.</p>
+            <p>Moreouer, his Highneſſe happy and ioyfull com<g ref="char:EOLhyphen"/>ming on that day, was a putting off of an execution which ſixe men and two women condemned male<g ref="char:EOLhyphen"/>factors were to ſuffer at Tyburne, whereby hee was the moſt fortunate cauſe of their reprieues &amp; ſauing, and a larger time of repentance to amend their liues.</p>
+            <p>The very Vintners burnt their buſhes in Fleetſtreet and other places, and their wine was burnt (all ouer London and Weſtminſter) into all colours of the Rainbow, whole pintes, quarts, pottles, and gallons, were made into Bonefires of Sacke and Claret, whi<g ref="char:EOLhyphen"/>leſt good fellowes like louing Salamanders ſwallow<g ref="char:EOLhyphen"/>ed thoſe liquid fires moſt ſweetly and affectionately. But as concerning this fuell of <hi>Bacchus,</hi> a great many would not ſtay, or could not endure to ſee it burnt, and ſo deuoured thoſe French and Spaniſh billets and faggots raw, which after being warmed with ſhou<g ref="char:EOLhyphen"/>ting, laughing, ſinging, and leaping, the heat burſt out ſo hotly that it appeared in many a high coloured face, till in the end the fire was quenched in the em<g ref="char:EOLhyphen"/>bers and aſhes of ſleepe.</p>
+            <p>And to the entent all eſtates ſhould be merry, there were diuers Noblemen, Gentlemen, and others, that gaue ſtore of gold to the poore, ſome gaue veſſels of wine in the ſtreets.</p>
+            <p>Thus was the whole day ſpent, till the darke night came, and then began the ſecond part of England
+<pb facs="tcp:184135:8"/>ioy: for the nights loue did as it were ſcorne to be outſtripped with the dayes affection and obedience. Amongſt the reſt, the Spaniſh Ambaſſadors, both at Exeter houſe in the Strand, and at Ely houſe in Hol<g ref="char:EOLhyphen"/>borne, did expreſſe their loues by their charges and reioycings.</p>
+            <p>Then began a moſt merry and ioyfull confuſion of billets, faggots, bauins, and logs, baskets, buckets, and tubs were hotly and merrily conſumed, buts, pipes, hogſheads, teirces, puncheons, barrles, kilderkins, fir<g ref="char:EOLhyphen"/>kins, runlets, and drifats moſt brauely blazed and ſuf<g ref="char:EOLhyphen"/>fered; ſome in Smithfield burnt their old Coaches, (and I wiſh they had all beene ſo well beſtowed) waſh<g ref="char:EOLhyphen"/>ing boules and beerles went to wrack, old graters and ſtooles were turn'd to aſhes, mouſe traps and tinder<g ref="char:EOLhyphen"/>boxes came to light, and he or ſhe that had but foure tokens, or as much credit, committed their whole e<g ref="char:EOLhyphen"/>ſtate to fire and faggot; inſomuch that Chandlers ſhops and ſtore-houſes were moſt willingly emptied. But in <hi>Paules</hi> Churchyard was exceeding benighted triumphs, for on the croſſe round about were placed, on the batlements &amp; on the top of it as many burning Linkes as the Prince his Highneſſe was yeares old: and in ſome good diſtance from the Croſſe, were two mighty bonefires; beſides there was a croſſe of wood erected which extended into foure branches, and vp<g ref="char:EOLhyphen"/>on euery branch a pitch-barrell was faſtned, and one in the middeſt on the top, which made a braue ſhew in the burning: then were there Creſſit lights, and moſt excellent fireworkes, with ſquibs, crackers, rac<g ref="char:EOLhyphen"/>ketts,
+<pb facs="tcp:184135:8"/>which moſt delightfully flew euery way. And it is certain to be proued, that betwixt <hi>Paules</hi> Church yard &amp; London-bridge in the neareſt way that could be gone, there were 108 Bonefires told, many of them hauing at leaſt one load of wood in each, ſome more, ſome leſſe: I ſpeake not of other ſtreets and lanes which are out of that way, beſides the Strand, Weſt<g ref="char:EOLhyphen"/>minſter, and Holborn, with hundreds of places which I ſaw not.</p>
+            <p>All theſe and much more was done here in Lon<g ref="char:EOLhyphen"/>don, Weſtminſter, and the adioyning places, nor is it to be doubted but that all Cities, Townes, and Villa<g ref="char:EOLhyphen"/>ges, will generally and particularly ſhew their louing obedience and affections.</p>
+         </div>
+         <div type="itinerary">
+            <pb facs="tcp:184135:9"/>
+            <p> Here is ſet downe the long and tedious Iourney, with the ſeuerall ſtages or places where men take Poſte-horſe from the City of <hi>London,</hi> quite through the ſpacious Kingdome of France; and ſo throughout into <hi>Spaine,</hi> to the City of <hi>Madrid,</hi> being in all 141 ſeuerall ſtages or Poſte-Townes, ſome 8, ſome 10, 12, or 16 miles from each other, being in all about 1100 miles.</p>
+            <list>
+               <item>London</item>
+               <item>Darford</item>
+               <item>Rocheſter</item>
+               <item>Sittingbourne</item>
+               <item>Canterbury</item>
+               <item>Douer</item>
+               <item>Callaice</item>
+               <item>Le Biſon</item>
+               <item>Marqueſſa</item>
+               <item>Bulloigne</item>
+               <item>Neuchattell</item>
+               <item>Franeaz</item>
+               <item>Montruell</item>
+               <item>Neupon</item>
+               <item>Bernai</item>
+               <item>Noieane</item>
+               <item>Abeville</item>
+               <item>Aillyle hanc dordes</item>
+               <item>Fleircourt</item>
+               <item>Piguigny</item>
+               <item>Amiens</item>
+               <item>Hancourt.</item>
+               <item>Flaire</item>
+               <item>Briteur</item>
+               <item>Rauigny</item>
+               <item>St. Remy</item>
+               <item>Cleremont</item>
+               <item>Roucellei</item>
+               <pb facs="tcp:184135:9"/>
+               <item> Saint Leu</item>
+               <item>Lufarder</item>
+               <item>Eſcouen</item>
+               <item>St. Denis</item>
+               <item>
+                  <hi>PARIS</hi>
+               </item>
+               <item>La Burlarayur</item>
+               <item>Longuemiaux</item>
+               <item>Chator</item>
+               <item>Bonur</item>
+               <item>Eſtampe</item>
+               <item>Guillerua</item>
+               <item>Angueruille</item>
+               <item>Shaupillary</item>
+               <item>Shateugaillad</item>
+               <item>Artenay</item>
+               <item>Sercott</item>
+               <item>
+                  <hi>ORLEANCE</hi>
+               </item>
+               <item>St. Minion</item>
+               <item>Noſtra Dama de Clara</item>
+               <item>Leſtroya ſhemina</item>
+               <item>Le Laurena der eux</item>
+               <item>Maide</item>
+               <item>Mondinaux</item>
+               <item>
+                  <hi>BLOIS</hi>
+               </item>
+               <item>Les Montriba</item>
+               <item>Lambin</item>
+               <item>Mont Richard</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>r Liege Lochez</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>arenur</item>
+               <item>Liguer</item>
+               <item>La hay</item>
+               <item>Perlane</item>
+               <item>Shatibben</item>
+               <item>La Tredeuir</item>
+               <item>Chaffener</item>
+               <item>
+                  <hi>POICTIERS</hi>
+               </item>
+               <pb facs="tcp:184135:10"/>
+               <item> Rufigni</item>
+               <item>Vrporte Aioutete</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>inour</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>menieur</item>
+               <item>Couer</item>
+               <item>Chour</item>
+               <item>Chouffa</item>
+               <item>Villa foignant</item>
+               <item>Aiger</item>
+               <item>Gouruille</item>
+               <item>St. Seuerdeaux</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>illara</item>
+               <item>Chaſteauneuf</item>
+               <item>Nonnauille</item>
+               <item>Barbefieux</item>
+               <item>Raignar</item>
+               <item>La Grole</item>
+               <item>Mou Lien</item>
+               <item>Plante Blac</item>
+               <item>Chauignon</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>r voya de Lion</item>
+               <item>Cuſac</item>
+               <item>Le port de Cruſſac</item>
+               <item>Le Charbon blanc</item>
+               <item>Le port de la Ba<g ref="char:EOLhyphen"/>ſtil</item>
+               <item>
+                  <hi>BOVRDEAVX</hi>
+               </item>
+               <item>Le petit Bur<g ref="char:EOLhyphen"/>deaux</item>
+               <item>Hauborre</item>
+               <item>Troia</item>
+               <item>Pooter</item>
+               <item>Belleene</item>
+               <item>Muret</item>
+               <item>Alliſpoſtel</item>
+               <item>Le Brouheer</item>
+               <item>Jen Guiller</item>
+               <item>La haree</item>
+               <pb facs="tcp:184135:10"/>
+               <item> Les Sperroone</item>
+               <item>Chaſtel</item>
+               <item>Maier</item>
+               <item>S. <g ref="char:V">Ʋ</g>incent</item>
+               <item>Le Cabalon</item>
+               <item>Les Anders</item>
+               <item>Vnpoſte Aioutee</item>
+               <item>BAYON</item>
+               <item>Bidarbe</item>
+               <item>S. Ian de Luz</item>
+               <item>Arinanat.</item>
+            </list>
+            <p>What Townes are named in this Catalogue ſince you read <hi>Callaice,</hi> are all ſtanding in <hi>France:</hi> Now we come to relate of the paſſage through <hi>Spaine</hi> to the City of <hi>Madrid;</hi> And firſt after your paſſage from <hi>Bayon</hi> you come ſhortly into the Kingdome of <hi>Nauarre,</hi> which is now in the King of <hi>Spaines</hi> domi<g ref="char:EOLhyphen"/>nions, the firſt place therein where they take Poſte horſe is named,
+<list>
+                  <item>Yron, or Feria</item>
+                  <item>Oyaſon</item>
+                  <item>Eſeruand</item>
+                  <item>Toullouſette</item>
+                  <item>Toloſa</item>
+                  <item>Verafrangii</item>
+                  <item>Segaur</item>
+                  <item>Gallarette</item>
+                  <item>Andicamer</item>
+                  <item>
+                     <hi>VITORIA</hi>
+                  </item>
+                  <item>Poypela</item>
+                  <item>Miranda</item>
+                  <item>Maiogur</item>
+                  <item>Soguire</item>
+                  <item>Breniea</item>
+                  <item>Caſtill de pione</item>
+                  <pb facs="tcp:184135:11"/>
+                  <item> Quinta Palla</item>
+                  <item>
+                     <hi>BVRGOS</hi>
+                  </item>
+                  <item>Biſbregur</item>
+                  <item>Songuide</item>
+                  <item>Lerma</item>
+                  <item>Bahabon</item>
+                  <item>Arandadeduera</item>
+                  <item>Roubia</item>
+                  <item>Freſſenuille</item>
+                  <item>Chaſtel</item>
+                  <item>St. Merſieur</item>
+                  <item>Bouteagur</item>
+                  <item>Canauuille</item>
+                  <item>St. Auguſtine</item>
+                  <item>Acauenda</item>
+                  <item>
+                     <hi>MADRID.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Thus hauing ſhewed the long and dangerous tract by Land from <hi>London</hi> to <hi>Madrid,</hi> we may herein ſee in part how much wee are all bound to bee thankfull to our great and good God, who hath ſo healthfully, happily, and timely preſerued and returned our gra<g ref="char:EOLhyphen"/>cious Prince ſo wiſhedly, after ſo many perils paſt on his part, and ſo many doubts and feares on ours, vpon the which I haue (for a concluſion) written theſe fol<g ref="char:EOLhyphen"/>lowing verſes.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:184135:11"/>
+            <lg>
+               <l>THe <hi>Prince</hi> of <hi>Princes,</hi> and the <hi>King</hi> of <hi>Kings,</hi>
+               </l>
+               <l>Whoſe <hi>eye</hi> of <hi>prouidence</hi> foreſees all things:</l>
+               <l>To whom what euer <hi>was,</hi> or ere <hi>ſhall be,</hi>
+               </l>
+               <l>Is <hi>preſent</hi> ſtill before his Maieſty.</l>
+               <l>Who doth diſpoſe of all things as he liſt,</l>
+               <l>And graſpeth <hi>Time</hi> in his <hi>eternall</hi> fiſt;</l>
+               <l>He ſees and knowes (for vs) what's bad or good,</l>
+               <l>And all things is by him well vnderſtood;</l>
+               <l>Mans weake coniectures no way can areed,</l>
+               <l>What's in th'immortall Parl'ament decreed,</l>
+               <l>And what the <hi>Trinity</hi> concludeth there,</l>
+               <l>We muſt expect it with obedience here.</l>
+               <l>Then let not any man preſume ſo farre,</l>
+               <l>To ſearch what the <hi>Almighties</hi> councels are,</l>
+               <l>But let our <hi>wils</hi> attend vpon his <hi>will,</hi>
+               </l>
+               <l>And let his <hi>will</hi> be our direction ſtill.</l>
+               <l>Let not Plebeans be inquiſitiue,</l>
+               <l>Or into any profound State-buſineſſe diue.</l>
+               <l>We in fiue hundred and nere ſixty yeare,</l>
+               <l>Since firſt the <hi>Norman</hi> did the Scepter beare,</l>
+               <l>Haue many hopefull royall Princes had</l>
+               <l>Who as heau'n pleas'd to bleſſe, were good or bad,</l>
+               <l>
+                  <hi>Beauclarke</hi> was firſt (who was firſt <hi>Henry</hi> crown'd)</l>
+               <l>For learning and for wiſedome, high renown'd,</l>
+               <l>Beyond the verge of <hi>Chriſtendome,</hi> ſwift <hi>Fame</hi>
+               </l>
+               <l>Did make the world admire his noble name.</l>
+               <l>The blacke Prince <hi>Edward,</hi> all his life time ran</l>
+               <l>The race of an accompliſht Gentleman:</l>
+               <l>His valour and triumphant victories,</l>
+               <l>Did fill the world, and mount vnto the skies.</l>
+               <pb facs="tcp:184135:12"/>
+               <l> The warlike <hi>Henry</hi> of that name the fift,</l>
+               <l>With his innated vertue vp did lift</l>
+               <l>His name and fame, to ſuch perſpicuous grace,</l>
+               <l>Which time, or no obliuion can deface.</l>
+               <l>Prince <hi>Arthur</hi> (whom our Chronicles record</l>
+               <l>To be) a vertuous and a hopefull Lord:</l>
+               <l>His budding fortunes were by death preuented,</l>
+               <l>And as he liu'd belou'd, he dyde lamented.</l>
+               <l>His brother <hi>Henry</hi> from his fall did ſpring,</l>
+               <l>Firſt to be Prince of <hi>Wales,</hi> then <hi>Englands</hi> King,</l>
+               <l>He was magnificent, and fortunate,</l>
+               <l>According to the greatneſſe of his ſtate.</l>
+               <l>Next <hi>Edward</hi> his vndoubted heyre by birth,</l>
+               <l>Who (for the ſins of men vpon the earth)</l>
+               <l>God tooke him hence as he began to bloome,</l>
+               <l>Whoſe worthy memory mens hearts intombe.</l>
+               <l>Prince <hi>Henry</hi> laſt, a Prince of as great hope</l>
+               <l>As ere was any yet beneath the Cope,</l>
+               <l>He liu'd and dy'd bewailed and renown'd,</l>
+               <l>And left this land with teares of ſorrow drown'd.</l>
+               <l>Then onely this illuſtrious Branch remain'd,</l>
+               <l>Our gracious <hi>Charles,</hi> by Heauens high grace ordaind</l>
+               <l>To be our Ioy, whoſe vertues (as I gather)</l>
+               <l>Will length the life of his beloued Father.</l>
+               <l>True loue and honour made his Highneſſe pleaſe</l>
+               <l>Aduentrouſly to paſſe o're lands and ſeas,</l>
+               <l>With hazard of his royall perſon, and</l>
+               <l>In that, the hope of all our happy Land.</l>
+               <l>But bleſſed be <hi>his name,</hi> whoſe great protection</l>
+               <l>Preſeru'd him ſtill from change of Ayres infection,</l>
+               <pb facs="tcp:184135:12"/>
+               <l> That gaue him health and ſtrength mongſt ſundry na<g ref="char:EOLhyphen"/>tions,</l>
+               <l>T'endure and like their diets variations,</l>
+               <l>That though to others theſe things might be ſtrange,</l>
+               <l>Yet did his Princely vigour neuer change,</l>
+               <l>But with a ſtrong and able conſtitution,</l>
+               <l>He bore out all with manly reſolution.</l>
+               <l>Loue ſometimes made the gods themſelues diſguiſe,</l>
+               <l>And muffle vp their mighty Dieties,</l>
+               <l>And vertuous Princes of the gods haue ods,</l>
+               <l>When Princes goodneſſe doe outgoe the gods.</l>
+               <l>Then fooliſh man this is no worke of thine,</l>
+               <l>But operation of the Power diuine,</l>
+               <l>Let God alone with what he hath in hand,</l>
+               <l>Tis ſaucy, folly, madneſſe, to withſtand</l>
+               <l>What his eternall wiſedome hath decreed,</l>
+               <l>Who better knowes then we doe, what we need.</l>
+               <l>To him let's pray for his moſt ſafe protection,</l>
+               <l>Him we implore for his moſt ſure direction:</l>
+               <l>Let his aſſiſtance be Prince <hi>Charles</hi> his guide,</l>
+               <l>That in the end God may be glorifide.</l>
+               <l>Let vs amendment in our liues expreſſe,</l>
+               <l>And let our thankes be more, our ſins be leſſe.</l>
+            </lg>
+            <p>Amongſt the reſt this is to be remembred, that two Watermen at the Tower Wharfe burnt both their Boats in a Bonefire moſt merrily.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184135:13"/>
+            <pb facs="tcp:184135:13" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
